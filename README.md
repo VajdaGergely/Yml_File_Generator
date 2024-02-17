@@ -1,2 +1,2 @@
 # Yml_File_Generator
-This Powershell script generates yml files from SQLite database records
+This Powershell script that generates yml files from SQLite database records.
